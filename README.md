@@ -14,4 +14,4 @@
 ```
 ### Number of epochs was increased to 20
 ### Batch size was set to 160
-### Final error: 0.02677
+### Final error: 0.2677
